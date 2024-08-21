@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+    background-color: #e4f3f4;
+    font-size: 12px;
+
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+img {
+    width: 200px;
+    margin: -100px;
+
+}
+
+.borda {
+    background: rgba(188, 230, 252, 0.471);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+    display: inline-block;
+    background: rgb(140, 241, 145);
+    color: #000000;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s, color 0.3s;
+}
+
+.cor {
+    background-color: rgba(188, 230, 252, 0.471);
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer .a {
+    text-decoration: none;
+    color: black;
+}
+
+.linha {
+    text-decoration: underline;
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(163, 246, 246);
+    padding: 0px;
+    margin: 0px;
+}
+
+.borda2 {
+    background: rgba(129, 208, 251, 0.471);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+ul .a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.obrigado {
+    text-size-adjust: 1000px;
+}
